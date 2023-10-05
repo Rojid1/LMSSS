@@ -2,6 +2,6 @@ class A
 {
 public static void main( String arg[])
 {
-System.out.print("welcome");
+System.out.print("Hello");
 }
 }
